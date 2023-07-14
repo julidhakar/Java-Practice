@@ -1,0 +1,11 @@
+
+* why abstract class: in abstract class we can keep common functionality,
+* Abstract in not pure abstraction.
+
+* why abstract class not instantiate:
+   An abstract class can't be instantiated by using new operator. Because an abstract class may have
+   abstract methods i.e. methods without any implementation. Because an object can't have abstract methods,
+   JVM can't allocate memory of these objects abstract methodsAn abstract class can't be instantiated by
+   using new operator. Because an abstract class may have abstract methods i.e. methods without any
+   implementation. Because an object can't have abstract methods, JVM can't allocate memory of these
+   objects abstract methods

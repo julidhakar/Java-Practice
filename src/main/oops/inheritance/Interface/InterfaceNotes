@@ -1,0 +1,13 @@
+
+
+* why interface: for multiple inheritance
+
+* Interface variable are always public static final because it interfaces can not be instantiate on their own.
+  and constant modifier
+  ensures the value assigned to the interface variable is a true constant that can not be re-assigned.
+
+* interface can extends multiple interface
+
+* all the concrete class should have implement all the interface methods
+
+
